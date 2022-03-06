@@ -8,6 +8,8 @@
 
 4º - npm install bcrypt = transformar senha em varios caracteres complexos
 
+5º - npm install jsonwebtoken 
+
 
 
 nodemon src/index.js
